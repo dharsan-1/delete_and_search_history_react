@@ -1,0 +1,45 @@
+.whole-container {
+  background-color: white;
+  background-size: cover;
+}
+.heading-container {
+  background-color: #3367d6;
+  display: flex;
+  flex-direction: row;
+  padding: 20px;
+}
+.name-logo {
+  height: 50px;
+  width: 150px;
+  margin-top: 15px;
+}
+.search {
+  height: 30px;
+  width: 30px;
+}
+.search-con {
+  background-color: #2850a7;
+  text-align: center;
+
+  padding: 20px;
+  border-width: 0.5px;
+  border-color: white;
+  margin-left: 320px;
+}
+.search-background {
+  background-color: #2850a7;
+  border-width: 0.5px;
+  border-color: white;
+  margin-left: 40px;
+  height: 70px;
+  width: 300px;
+  color: white;
+}
+.ul-con {
+  text-decoration: none;
+  list-style-type: none;
+}
+.no_data_con {
+  text-align: center;
+  padding-top: 300px;
+}
